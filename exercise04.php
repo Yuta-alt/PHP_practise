@@ -71,3 +71,4 @@ echo date("Y/m/d H:i:s",mktime(0,0,0,3,0,2012))."\n";
 // date
 $date=time();
 echo $date."\n";
+// テスト
